@@ -1,0 +1,255 @@
+body {
+    font-family: 'Montserrat',
+    sans-serif;
+}
+
+h2 {
+    color: crimson;
+}
+
+/* main styles */
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: darkgray;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+/* maincontent styles */
+.main_content {
+    background-color: #FFFFFF;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* aboutusers styles */
+.about_user {
+    margin-top: 102px;
+    margin-bottom: 40px;
+    margin-left: 120px;
+    margin-right: 342px;
+}
+
+.about_position {
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+}
+
+.about_name {
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 55px;
+}
+
+.about_disription {
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+}
+
+/* project styles */
+.projects {
+   margin-top: 40px ;
+   margin-bottom: 51px;
+   margin-left: 80px;
+   margin-right: 257px;
+}
+
+.project_items {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+
+.project_list {
+    margin-left: 15px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.project_facts {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: darkgray;
+}
+
+.project_link {
+    color: coral;
+}
+
+
+/* work styles */
+.work {
+    margin-top: 51px;
+    margin-bottom: 16px;
+    margin-left: 80px;
+    margin-right: 217px;
+}
+
+.work_title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+}
+
+.work_position {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.work_specification {
+    margin-left: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.compani_specification {
+    color: blueviolet;
+}
+
+.compani_2 {
+    margin-top: 16px;
+    margin-bottom:20px ;
+    margin-left: 80px;
+    margin-right: 217px;
+}
+
+.compani_3 {
+    margin-top: 20px;
+    margin-bottom: 43px;
+    margin-left: 80px;
+    margin-right: 117px;
+}
+
+
+/* education styles */
+.education {
+    margin-top: 43px;
+    margin-left: 88px;
+    margin-right: 20px;
+}
+
+.img_certificate {
+    width: 240px;
+    padding-left: 40px;
+}
+
+.education_list_title, .information_title {
+    color: blueviolet;
+}
+
+/* sidebar styles */
+.sidbar {
+    width: 370px;
+    background-color: #5f7fad;;
+    padding-top: 40px;
+}
+.photo {
+    width: 370px;
+    margin-bottom: 51px;
+}
+
+.contacts_sidebar {
+    padding-left: 40px;
+    margin-bottom: 50px;
+    
+}
+
+.contacts {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+.contact_type {
+    padding-right: 10px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.contact_link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.tech_skilss, 
+.soft_skilss {
+    padding-left: 40px;
+    color: #FFFFFF;
+}
+
+.tech_skilss {
+    margin-bottom: 45px;
+}
+
+.techskills_list,
+.softskills_list {
+    padding-left: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.skills_item {
+    color: crimson;
+}
+
+.skills_text {
+    color: #FFFFFF;
+}
+
+.aditional_information {
+    padding-top: 10px; 
+    padding-left: 20px;   
+    margin-left: 88px;
+    margin-right: 107px;
+    
+}
+
+.information_title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-left: 20px;
+}
+
+.information_list {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.go {
+    background: #000000;
+    color: #FFFFFF;
+}
+
+.IT {
+    background:coral;
+    color: #FFFFFF;
+}
